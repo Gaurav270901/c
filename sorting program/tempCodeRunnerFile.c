@@ -1,0 +1,5 @@
+
+
+
+void accept_details()
+{

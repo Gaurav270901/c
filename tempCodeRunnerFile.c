@@ -1,0 +1,1 @@
+array[i]=(char*)malloc(no*sizeof(char));
